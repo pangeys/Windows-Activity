@@ -1,0 +1,8 @@
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\bin\Debug\Windows Activity.exe
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\bin\Debug\Windows Activity.pdb
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows Activity.csprojResolveAssemblyReference.cache
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows Activity.exe
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows Activity.pdb
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows_Activity.MainForm.resources
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows Activity.csproj.GenerateResource.Cache
+C:\Users\airon\OneDrive\Documents\SharpDevelop Projects\Windows Activity\Windows Activity\obj\Debug\Windows_Activity.Form1.resources
